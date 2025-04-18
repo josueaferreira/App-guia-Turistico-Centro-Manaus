@@ -37,12 +37,16 @@ def responder(pergunta):
         return listar_opcoes(base_conhecimento['hoteis'], "hotéis")
     elif "historia" in pergunta or "história" in pergunta:
         return listar_opcoes(base_conhecimento['história'], "história")
+    elif "bar" in pergunta or "bares" in pergunta:
+        return listar_opcoes(base_conhecimento['bares'], "bares")
+    elif "noturna" in pergunta or "noturnas" in pergunta:
+        return listar_opcoes(base_conhecimento['noturna'], "casas noturnas")
     else:
         return "Desculpe, não entendi sua pergunta. Tente perguntar sobre a história, cafés, restaurantes, hotéis ou pontos turísticos no centro de Manaus."
 
 
 def listar_opcoes(lista, tipo):
-    resposta = f"Aqui estão algumas opções de {tipo}:\n"
+    resposta = f"Aqui estão algumas opções de {tipo} no centro histórico de manaus:\n"
     for lugar in lista:
         resposta += f"- {lugar['nome']} (Endereço: {lugar['endereco']}): {lugar['descricao']}\n"
     return resposta.strip()
