@@ -41,6 +41,8 @@ def responder(pergunta):
         return listar_opcoes(base_conhecimento['bares'], "bares")
     elif "noturna" in pergunta or "noturnas" in pergunta:
         return listar_opcoes(base_conhecimento['noturna'], "casas noturnas")
+    elif "porto" in pergunta or "portos" in pergunta:
+        return listar_opcoes(base_conhecimento['portos'], "portos")
     else:
         return "Desculpe, não entendi sua pergunta. Tente perguntar sobre a história, cafés, restaurantes, hotéis ou pontos turísticos no centro de Manaus."
 

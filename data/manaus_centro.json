@@ -130,7 +130,7 @@
         {
             "nome": "Las vegas Club Show",
             "endereco": "R. Tamandaré, 125 - Centro, Manaus - AM, 69005-410",
-            "descricao": "Uma casa noturna popular localizada proximo ao porto de manaus. Famoso por um ambiente animado e muica ao vivo."
+            "descricao": "Uma casa noturna popular localizada proximo ao porto de manaus. Famoso por ambiente animado e muica ao vivo."
         },
         {
             "nome": "Boate Dama Da Noite",
@@ -141,6 +141,18 @@
             "nome": "Remulos Beer",
             "endereco": "Rua Lobo D'Almada, 380 - Centro, Manaus - AM, 69010-030",
             "descricao": "Uma casa noturna popular localizada no Centro de Manaus. Famoso por sua longa história e ambiente animado."
+        }
+    ],
+    "portos": [
+        {
+            "nome": "Porto Público de Manaus - Roadway",
+            "endereco": "Av. Floriano Peixoto, 2-30 - Centro, Manaus - AM, 69005-070",
+            "descricao": "O Porto de Manaus é um dos principais portos fluviais do Brasil, localizado na zona central da cidade. Ele desempenha um papel crucial no transporte de mercadorias para a região Norte e outros destinos ao longo dos rios da Amazônia."
+        },
+        {
+            "nome": "Porto das Balsas de Manaus",
+            "endereco": "Avenida Manaus Moderna 355-465 - Centro, Manaus - AM",
+            "descricao": "O Porto das balsas de Manaus é um ponto estratégico para embarques e desembarques de mercadorias. Ele é especialmente importante durante a temporada de cheia dos rios, quando as águas aumentam o nível dos portos tradicionais."
         }
     ]
   
