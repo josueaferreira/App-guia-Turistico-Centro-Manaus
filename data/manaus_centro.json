@@ -1,0 +1,102 @@
+{
+    "cafes": [
+        {
+            "nome": "Café Regional",
+            "endereco": "Rua Barroso, Centro",
+            "descricao": "Café tradicional com opções de comidas regionais."
+        },
+        {
+            "nome": "Empório Amazônico",
+            "endereco": "Av. Eduardo Ribeiro, Centro",
+            "descricao": "Café com ambiente agradável e produtos amazônicos."
+        },
+        {
+            "nome": "Café do Largo",
+            "endereco": "Largo de São Sebastião, Centro",
+            "descricao": "Café com vista para o Teatro Amazonas, oferecendo lanches e doces típicos."
+        },
+        {
+            "nome": "Café Alvorada",
+            "endereco": "Rua Major Gabriel, Centro",
+            "descricao": "Café acolhedor com pratos típicos e um ambiente tranquilo para conversar."
+        }
+    ],
+    "restaurantes": [
+        {
+            "nome": "Tambaqui de Banda",
+            "endereco": "Rua 10 de Julho, Centro",
+            "descricao": "Especializado em peixes regionais."
+        },
+        {
+            "nome": "Banzeiro",
+            "endereco": "Rua Libertador, Centro",
+            "descricao": "Culinária amazônica contemporânea."
+        },
+        {
+            "nome": "Caiçara",
+            "endereco": "Av. Getúlio Vargas, Centro",
+            "descricao": "Restaurante com pratos típicos da região Norte, especialmente peixes do Rio Amazonas."
+        },
+        {
+            "nome": "Tacacá da Gisela",
+            "endereco": "Rua 10 de Julho, Centro",
+            "descricao": "Serve o famoso tacacá, prato típico amazônico, em ambiente informal."
+        }
+    ],
+    "pontos_turisticos": [
+        {
+            "nome": "Teatro Amazonas",
+            "endereco": "Largo de São Sebastião, Centro",
+            "descricao": "Símbolo da época áurea da borracha, construído em 1896."
+        },
+        {
+            "nome": "Mercado Municipal Adolpho Lisboa",
+            "endereco": "Rua dos Barés, Centro",
+            "descricao": "Mercado histórico à beira do Rio Negro."
+        },
+        {
+            "nome": "Palácio Rio Negro",
+            "endereco": "Av. 7 de Setembro, Centro",
+            "descricao": "Antiga residência do governador, hoje centro cultural."
+        },
+        {
+            "nome": "Igreja de São Sebastião",
+            "endereco": "Largo de São Sebastião, Centro",
+            "descricao": "Igreja histórica, localizada ao lado do Teatro Amazonas, datada do século XIX."
+        },
+        {
+            "nome": "Museu do Índio",
+            "endereco": "Rua Ricardo Boechat, Centro",
+            "descricao": "Museu dedicado à cultura e história dos povos indígenas da Amazônia."
+        }
+    ],
+    "hoteis": [
+        {
+            "nome": "Hotel Millennium",
+            "endereco": "Av. Eduardo Ribeiro, Centro",
+            "descricao": "Hotel confortável no coração do centro histórico."
+        },
+        {
+            "nome": "Taj Mahal Continental Hotel",
+            "endereco": "Av. Getúlio Vargas, Centro",
+            "descricao": "Hotel com boa infraestrutura e localização privilegiada."
+        },
+        {
+            "nome": "Hotel São Paulo",
+            "endereco": "Rua São Paulo, Centro",
+            "descricao": "Hotel simples e acolhedor, ideal para quem busca praticidade."
+        },
+        {
+            "nome": "Hotéis Manaus",
+            "endereco": "Av. Mário Ypiranga, Centro",
+            "descricao": "Hotel com boa localização e comodidades acessíveis."
+        }
+    ],
+    "história": [
+    {
+      "nome": "História do centro de manaus",
+      "endereco": "",
+      "descricao": "O centro histórico de Manaus - tombado pelo Iphan, em 2012 - abrange uma área entre a orla do rio Negro e o entorno do Teatro Amazonas e ainda mantém os aspectos simbólicos e densos de realizações artístico-construtivas. Apresenta uma fração urbana formada por edificações do período áureo da borracha, mesclada a edifícios modernos e representa um dos maiores testemunhos de uma fase econômica ímpar no Brasil, quando a exploração do látex proporcionou o incremento da industrialização em escala mundial. \nA preservação deste núcleo, que configura o coração urbano da cidade, garante a manutenção de seu patrimônio singular e integro, e inclui Manaus no rol das cidades históricas do Brasil, com inscrição no Livro de Tombo Histórico e no Livro de Tombo Arqueológico, Etnográfico e Paisagístico. Mesmo fragmentada, Manaus ainda possui um vocabulário arquitetônico vasto e diversificado, com representação de todas as correntes ecléticas e a verticalização ainda não compromete a percepção do espaço criado na Belle Époque*. A cidade pode ser vista como um espaço urbano composto por monumentos, arquitetura corrente e áreas livres públicas, formando um conjunto que celebra e representa o ecletismo no norte do país. \nNo porto de Manaus, cidade banhada pelo rio Negro, além do cais de alvenaria foi construído um cais sobre boias de ferro cilíndricas para flutuar independentemente do nível do rio. A forma de pensar a arquitetura do início do século XX está bem representada no porto. O ferro aparece com soluções formais próprias - armazéns com chapas onduladas de vedação, road-way sobre boias flutuantes. Nos edifícios da Alfândega e da Administração a estrutura de ferro se esconde sob vedações de alvenaria, com elementos alusivos a estilos passados. \nA metrópole da borracha, nos anos 1900, abrigava uma população de 20 mil habitantes, em suas ruas retas e longas, calçadas com granito e pedras de lioz importadas de Portugal, praças e jardins exuberantes, fontes, monumentos e o suntuoso Teatro Amazonas. Além de hotéis, cassinos, estabelecimentos bancários, palacetes e todos os requintes de uma cidade moderna."
+    }
+  ]
+}

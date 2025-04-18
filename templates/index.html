@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia Turístico de Manaus por Voz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Guia Turístico Virtual do Centro de Manaus</h1>
+            <p>Clique no microfone e faça sua pergunta sobre o Centro de Manaus</p>
+        </header>
+        
+        <div class="voice-interface">
+            <button id="mic-btn" class="mic-btn">
+                <i class="fas fa-microphone"></i>
+            </button>
+            <div id="status-text">Clique para falar</div>
+        </div>
+        
+        <div class="instructions">
+            <h3>Exemplos de perguntas:</h3>
+            <ul>
+                <li>Onde posso tomar um café no centro de Manaus?</li>
+                <li>Quais são os principais pontos turísticos?</li>
+                <li>Recomende um restaurante no centro</li>
+                <li>Onde posso me hospedar no centro de Manaus?</li>
+                <li>Me fale sobre a história do centro de Manaus</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
