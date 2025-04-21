@@ -68,6 +68,21 @@
             "nome": "Museu do Índio",
             "endereco": "Rua Ricardo Boechat, Centro",
             "descricao": "Museu dedicado à cultura e história dos povos indígenas da Amazônia."
+        },
+        {
+            "nome": "Mirante Lúcia Almeida",
+            "endereco": "Av. Sete de Setembro, Centro",
+            "descricao": "O Mirante é um espaço cultural e turístico no centro de Manaus. Oferece vista privilegiada do Rio Negro, skyglass, píer turístico e áreas de lazer e gastronomia."
+        },
+        {
+            "nome": "Museu da Cidade de Manaus - MUMA (Paço da Liberdade)",
+            "endereco": "R. Gabriel Salgado, Centro",
+            "descricao": "Museu em um palácio neoclássico com exposições interativas sobre a cultura e a história de Manaus."
+        },
+        {
+            "nome": "Centro Cultural Usina Chaminé",
+            "endereco": "Av. Lourenço da Silva Braga, Centro",
+            "descricao": "O Centro Cultural Usina Chaminé é um espaço cultural em Manaus, inaugurado em 1910 e revitalizado para abrigar exposições e eventos, com arquitetura histórica preservada."
         }
     ],
     "hoteis": [
