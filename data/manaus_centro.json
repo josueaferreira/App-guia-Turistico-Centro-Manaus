@@ -1,174 +1,236 @@
 {
     "cafes": [
-        {
-            "nome": "Café Regional",
-            "endereco": "Rua Barroso, Centro",
-            "descricao": "Café tradicional com opções de comidas regionais."
-        },
-        {
-            "nome": "Empório Amazônico",
-            "endereco": "Av. Eduardo Ribeiro, Centro",
-            "descricao": "Café com ambiente agradável e produtos amazônicos."
-        },
-        {
-            "nome": "Café do Largo",
-            "endereco": "Largo de São Sebastião, Centro",
-            "descricao": "Café com vista para o Teatro Amazonas, oferecendo lanches e doces típicos."
-        },
-        {
-            "nome": "Café Alvorada",
-            "endereco": "Rua Major Gabriel, Centro",
-            "descricao": "Café acolhedor com pratos típicos e um ambiente tranquilo para conversar."
-        }
+      {
+        "nome": "Café Regional",
+        "endereco": "Rua Barroso, Centro",
+        "descricao": "Café tradicional com opções de comidas regionais."
+      },
+      {
+        "nome": "Empório Amazônico",
+        "endereco": "Av. Eduardo Ribeiro, Centro",
+        "descricao": "Café com ambiente agradável e produtos amazônicos."
+      },
+      {
+        "nome": "Café do Largo",
+        "endereco": "Largo de São Sebastião, Centro",
+        "descricao": "Café com vista para o Teatro Amazonas, oferecendo lanches e doces típicos."
+      },
+      {
+        "nome": "Café Alvorada",
+        "endereco": "Rua Major Gabriel, Centro",
+        "descricao": "Café acolhedor com pratos típicos e um ambiente tranquilo para conversar."
+      },
+      {
+        "nome": "Doce Café Manaus",
+        "endereco": "Rua Ramos Ferreira, Centro",
+        "descricao": "Cafeteria charmosa com doces regionais e cafés especiais."
+      },
+      {
+        "nome": "Café com Leite",
+        "endereco": "Av. Joaquim Nabuco, Centro",
+        "descricao": "Ambiente familiar, com opções de café da manhã regional."
+      }
     ],
     "restaurantes": [
-        {
-            "nome": "Tambaqui de Banda",
-            "endereco": "Rua 10 de Julho, Centro",
-            "descricao": "Especializado em peixes regionais."
-        },
-        {
-            "nome": "Banzeiro",
-            "endereco": "Rua Libertador, Centro",
-            "descricao": "Culinária amazônica contemporânea."
-        },
-        {
-            "nome": "Caiçara",
-            "endereco": "Av. Getúlio Vargas, Centro",
-            "descricao": "Restaurante com pratos típicos da região Norte, especialmente peixes do Rio Amazonas."
-        },
-        {
-            "nome": "Tacacá da Gisela",
-            "endereco": "Rua 10 de Julho, Centro",
-            "descricao": "Serve o famoso tacacá, prato típico amazônico, em ambiente informal."
-        }
+      {
+        "nome": "Tambaqui de Banda",
+        "endereco": "Rua 10 de Julho, Centro",
+        "descricao": "Especializado em peixes regionais."
+      },
+      {
+        "nome": "Banzeiro",
+        "endereco": "Rua Libertador, Centro",
+        "descricao": "Culinária amazônica contemporânea."
+      },
+      {
+        "nome": "Caiçara",
+        "endereco": "Av. Getúlio Vargas, Centro",
+        "descricao": "Restaurante com pratos típicos da região Norte, especialmente peixes do Rio Amazonas."
+      },
+      {
+        "nome": "Tacacá da Gisela",
+        "endereco": "Rua 10 de Julho, Centro",
+        "descricao": "Serve o famoso tacacá, prato típico amazônico, em ambiente informal."
+      },
+      {
+        "nome": "Restaurante Caxiri",
+        "endereco": "Largo de São Sebastião, Centro",
+        "descricao": "Restaurante de alta gastronomia com ingredientes amazônicos e vista para o Teatro Amazonas."
+      },
+      {
+        "nome": "Naia Restaurante",
+        "endereco": "Av. Sete de Setembro, Centro",
+        "descricao": "Combina culinária regional com toques modernos e vista para o Rio Negro."
+      }
     ],
     "pontos_turisticos": [
-        {
-            "nome": "Teatro Amazonas",
-            "endereco": "Largo de São Sebastião, Centro",
-            "descricao": "Símbolo da época áurea da borracha, construído em 1896."
-        },
-        {
-            "nome": "Mercado Municipal Adolpho Lisboa",
-            "endereco": "Rua dos Barés, Centro",
-            "descricao": "Mercado histórico à beira do Rio Negro."
-        },
-        {
-            "nome": "Palácio Rio Negro",
-            "endereco": "Av. 7 de Setembro, Centro",
-            "descricao": "Antiga residência do governador, hoje centro cultural."
-        },
-        {
-            "nome": "Igreja de São Sebastião",
-            "endereco": "Largo de São Sebastião, Centro",
-            "descricao": "Igreja histórica, localizada ao lado do Teatro Amazonas, datada do século XIX."
-        },
-        {
-            "nome": "Museu do Índio",
-            "endereco": "Rua Ricardo Boechat, Centro",
-            "descricao": "Museu dedicado à cultura e história dos povos indígenas da Amazônia."
-        },
-        {
-            "nome": "Mirante Lúcia Almeida",
-            "endereco": "Av. Sete de Setembro, Centro",
-            "descricao": "O Mirante é um espaço cultural e turístico no centro de Manaus. Oferece vista privilegiada do Rio Negro, skyglass, píer turístico e áreas de lazer e gastronomia."
-        },
-        {
-            "nome": "Museu da Cidade de Manaus - MUMA (Paço da Liberdade)",
-            "endereco": "R. Gabriel Salgado, Centro",
-            "descricao": "Museu em um palácio neoclássico com exposições interativas sobre a cultura e a história de Manaus."
-        },
-        {
-            "nome": "Centro Cultural Usina Chaminé",
-            "endereco": "Av. Lourenço da Silva Braga, Centro",
-            "descricao": "O Centro Cultural Usina Chaminé é um espaço cultural em Manaus, inaugurado em 1910 e revitalizado para abrigar exposições e eventos, com arquitetura histórica preservada."
-        }
+      {
+        "nome": "Teatro Amazonas",
+        "endereco": "Largo de São Sebastião, Centro",
+        "descricao": "Símbolo da época áurea da borracha, construído em 1896."
+      },
+      {
+        "nome": "Mercado Municipal Adolpho Lisboa",
+        "endereco": "Rua dos Barés, Centro",
+        "descricao": "Mercado histórico à beira do Rio Negro."
+      },
+      {
+        "nome": "Palácio Rio Negro",
+        "endereco": "Av. 7 de Setembro, Centro",
+        "descricao": "Antiga residência do governador, hoje centro cultural."
+      },
+      {
+        "nome": "Igreja de São Sebastião",
+        "endereco": "Largo de São Sebastião, Centro",
+        "descricao": "Igreja histórica, localizada ao lado do Teatro Amazonas, datada do século XIX."
+      },
+      {
+        "nome": "Museu do Índio",
+        "endereco": "Rua Ricardo Boechat, Centro",
+        "descricao": "Museu dedicado à cultura e história dos povos indígenas da Amazônia."
+      },
+      {
+        "nome": "Mirante Lúcia Almeida",
+        "endereco": "Av. Sete de Setembro, Centro",
+        "descricao": "O Mirante é um espaço cultural e turístico no centro de Manaus. Oferece vista privilegiada do Rio Negro, skyglass, píer turístico e áreas de lazer e gastronomia."
+      },
+      {
+        "nome": "Museu da Cidade de Manaus - MUMA (Paço da Liberdade)",
+        "endereco": "R. Gabriel Salgado, Centro",
+        "descricao": "Museu em um palácio neoclássico com exposições interativas sobre a cultura e a história de Manaus."
+      },
+      {
+        "nome": "Centro Cultural Usina Chaminé",
+        "endereco": "Av. Lourenço da Silva Braga, Centro",
+        "descricao": "O Centro Cultural Usina Chaminé é um espaço cultural em Manaus, inaugurado em 1910 e revitalizado para abrigar exposições e eventos, com arquitetura histórica preservada."
+      },
+      {
+        "nome": "Relógio Municipal",
+        "endereco": "Praça XV de Novembro, Centro",
+        "descricao": "Construído em 1927, é um dos pontos históricos mais tradicionais da cidade."
+      },
+      {
+        "nome": "Porto de Manaus",
+        "endereco": "Av. Marques de Santa Cruz, Centro",
+        "descricao": "Importante ponto turístico e histórico da cidade, com bela vista do Rio Negro."
+      }
     ],
     "hoteis": [
-        {
-            "nome": "Hotel Millennium",
-            "endereco": "Av. Eduardo Ribeiro, Centro",
-            "descricao": "Hotel confortável no coração do centro histórico."
-        },
-        {
-            "nome": "Taj Mahal Continental Hotel",
-            "endereco": "Av. Getúlio Vargas, Centro",
-            "descricao": "Hotel com boa infraestrutura e localização privilegiada."
-        },
-        {
-            "nome": "Hotel São Paulo",
-            "endereco": "Rua São Paulo, Centro",
-            "descricao": "Hotel simples e acolhedor, ideal para quem busca praticidade."
-        },
-        {
-            "nome": "Hotéis Manaus",
-            "endereco": "Av. Mário Ypiranga, Centro",
-            "descricao": "Hotel com boa localização e comodidades acessíveis."
-        }
-    ],
-    "história": [
-    {
-      "nome": "História do centro de manaus",
-      "endereco": "",
-      "descricao": "O centro histórico de Manaus - tombado pelo Iphan, em 2012 - abrange uma área entre a orla do rio Negro e o entorno do Teatro Amazonas e ainda mantém os aspectos simbólicos e densos de realizações artístico-construtivas. Apresenta uma fração urbana formada por edificações do período áureo da borracha, mesclada a edifícios modernos e representa um dos maiores testemunhos de uma fase econômica ímpar no Brasil, quando a exploração do látex proporcionou o incremento da industrialização em escala mundial. \nA preservação deste núcleo, que configura o coração urbano da cidade, garante a manutenção de seu patrimônio singular e integro, e inclui Manaus no rol das cidades históricas do Brasil, com inscrição no Livro de Tombo Histórico e no Livro de Tombo Arqueológico, Etnográfico e Paisagístico. Mesmo fragmentada, Manaus ainda possui um vocabulário arquitetônico vasto e diversificado, com representação de todas as correntes ecléticas e a verticalização ainda não compromete a percepção do espaço criado na Belle Époque*. A cidade pode ser vista como um espaço urbano composto por monumentos, arquitetura corrente e áreas livres públicas, formando um conjunto que celebra e representa o ecletismo no norte do país. \nNo porto de Manaus, cidade banhada pelo rio Negro, além do cais de alvenaria foi construído um cais sobre boias de ferro cilíndricas para flutuar independentemente do nível do rio. A forma de pensar a arquitetura do início do século XX está bem representada no porto. O ferro aparece com soluções formais próprias - armazéns com chapas onduladas de vedação, road-way sobre boias flutuantes. Nos edifícios da Alfândega e da Administração a estrutura de ferro se esconde sob vedações de alvenaria, com elementos alusivos a estilos passados. \nA metrópole da borracha, nos anos 1900, abrigava uma população de 20 mil habitantes, em suas ruas retas e longas, calçadas com granito e pedras de lioz importadas de Portugal, praças e jardins exuberantes, fontes, monumentos e o suntuoso Teatro Amazonas. Além de hotéis, cassinos, estabelecimentos bancários, palacetes e todos os requintes de uma cidade moderna."
-    }
+      {
+        "nome": "Hotel Millennium",
+        "endereco": "Av. Eduardo Ribeiro, Centro",
+        "descricao": "Hotel confortável no coração do centro histórico."
+      },
+      {
+        "nome": "Taj Mahal Continental Hotel",
+        "endereco": "Av. Getúlio Vargas, Centro",
+        "descricao": "Hotel com boa infraestrutura e localização privilegiada."
+      },
+      {
+        "nome": "Hotel São Paulo",
+        "endereco": "Rua São Paulo, Centro",
+        "descricao": "Hotel simples e acolhedor, ideal para quem busca praticidade."
+      },
+      {
+        "nome": "Hotéis Manaus",
+        "endereco": "Av. Mário Ypiranga, Centro",
+        "descricao": "Hotel com boa localização e comodidades acessíveis."
+      },
+      {
+        "nome": "Hotel Adrianópolis All Suites",
+        "endereco": "Rua Salvador, Adrianópolis",
+        "descricao": "Hotel moderno com suítes espaçosas e piscina com vista panorâmica."
+      },
+      {
+        "nome": "Hotel Villa Amazônia",
+        "endereco": "Rua Dez de Julho, Centro",
+        "descricao": "Hotel boutique de luxo, a poucos metros do Teatro Amazonas, com arquitetura colonial restaurada."
+      }
     ],
     "bares": [
-        {
-            "nome": "Bar do Armando",
-            "endereco": "Rua 10 de Julho, 593, Centro",
-            "descricao": "Fundado em 1963, é um ícone cultural de Manaus, conhecido por sua cerveja gelada, petiscos tradicionais como isca de pirarucu e ambiente descontraído com música ao vivo."
-        },
-        {
-            "nome": "Bar Caldeira",
-            "endereco": "Rua 10 de Julho, 593, Centro",
-            "descricao": "Conhecido por seu chopp gelado e música ao vivo, é um ponto de encontro para manauaras e turistas, representando a cultura manauara."
-        },
-        {
-            "nome": "Jangadeiro",
-            "endereco": "Rua Marquês de Santa Cruz, 28, Centro",
-            "descricao": "Bar tradicional com mais de 70 anos de história, famoso pelo sanduíche de pernil suíno e ambiente com MPB, samba e pagode ao vivo nos finais de semana."
-        },
-        {
-            "nome": "Kapela",
-            "endereco": "Rua Vinte e Seis, 2, Parque Dez de Novembro",
-            "descricao": "Bar boêmio com mesas ao ar livre, oferecendo petiscos como iscas de filé-mignon com calabresa e macaxeira, além de coxinhas da asa de frango com molho de abacaxi."
-        },
-        {
-            "nome": "Gringo’s Bar",
-            "endereco": "Avenida Eduardo Ribeiro, 926, Centro",
-            "descricao": "Antigo bar Safari, rebatizado, continua sendo parada certa para os amantes de rock e heavy metal, com cervejas geladas e petiscos como salame e sanduíches substanciosos."
-        }
+      {
+        "nome": "Bar do Armando",
+        "endereco": "Rua 10 de Julho, 593, Centro",
+        "descricao": "Fundado em 1963, é um ícone cultural de Manaus, conhecido por sua cerveja gelada, petiscos tradicionais como isca de pirarucu e ambiente descontraído com música ao vivo."
+      },
+      {
+        "nome": "Bar Caldeira",
+        "endereco": "Rua 10 de Julho, 593, Centro",
+        "descricao": "Conhecido por seu chopp gelado e música ao vivo, é um ponto de encontro para manauaras e turistas, representando a cultura manauara."
+      },
+      {
+        "nome": "Jangadeiro",
+        "endereco": "Rua Marquês de Santa Cruz, 28, Centro",
+        "descricao": "Bar tradicional com mais de 70 anos de história, famoso pelo sanduíche de pernil suíno e ambiente com MPB, samba e pagode ao vivo nos finais de semana."
+      },
+      {
+        "nome": "Kapela",
+        "endereco": "Rua Vinte e Seis, 2, Parque Dez de Novembro",
+        "descricao": "Bar boêmio com mesas ao ar livre, oferecendo petiscos como iscas de filé-mignon com calabresa e macaxeira, além de coxinhas da asa de frango com molho de abacaxi."
+      },
+      {
+        "nome": "Gringo’s Bar",
+        "endereco": "Avenida Eduardo Ribeiro, 926, Centro",
+        "descricao": "Antigo bar Safari, rebatizado, continua sendo parada certa para os amantes de rock e heavy metal, com cervejas geladas e petiscos como salame e sanduíches substanciosos."
+      },
+      {
+        "nome": "Boteco da Praça",
+        "endereco": "Praça São Sebastião, Centro",
+        "descricao": "Ambiente descontraído e ao ar livre, ideal para curtir música ao vivo no coração histórico de Manaus."
+      },
+      {
+        "nome": "Bar Poraquê",
+        "endereco": "Rua Rio Jutaí, Vieiralves",
+        "descricao": "Bar temático com drinks inspirados na Amazônia e música alternativa ao vivo."
+      }
     ],
     "noturna": [
-        {
-            "nome": "Las vegas Club Show",
-            "endereco": "R. Tamandaré, 125 - Centro, Manaus - AM, 69005-410",
-            "descricao": "Uma casa noturna popular localizada proximo ao porto de manaus. Famoso por ambiente animado e muica ao vivo."
-        },
-        {
-            "nome": "Boate Dama Da Noite",
-            "endereco": "Rua Lobo D'Almada, 380 - Centro, Manaus - AM, 69010-030",
-            "descricao": "Uma casa noturna popular localizada no centro de manaus, conhecida por ser em frente ao Remulos Beer."
-        },
-        {
-            "nome": "Remulos Beer",
-            "endereco": "Rua Lobo D'Almada, 380 - Centro, Manaus - AM, 69010-030",
-            "descricao": "Uma casa noturna popular localizada no Centro de Manaus. Famoso por sua longa história e ambiente animado."
-        }
+      {
+        "nome": "Las vegas Club Show",
+        "endereco": "R. Tamandaré, 125 - Centro, Manaus - AM, 69005-410",
+        "descricao": "Uma casa noturna popular localizada proximo ao porto de manaus. Famoso por ambiente animado e muica ao vivo."
+      },
+      {
+        "nome": "Boate Dama Da Noite",
+        "endereco": "Rua Lobo D'Almada, 380 - Centro, Manaus - AM, 69010-030",
+        "descricao": "Uma casa noturna popular localizada no centro de manaus, conhecida por ser em frente ao Remulos Beer."
+      },
+      {
+        "nome": "Remulos Beer",
+        "endereco": "Rua Lobo D'Almada, 380 - Centro, Manaus - AM, 69010-030",
+        "descricao": "Uma casa noturna popular localizada no Centro de Manaus. Famoso por sua longa história e ambiente animado."
+      },
+      {
+        "nome": "All Night Pub",
+        "endereco": "Rua Rio Madeira, Vieiralves",
+        "descricao": "Casa noturna com ambiente moderno, música eletrônica e drinks exclusivos."
+      },
+      {
+        "nome": "Porão do Alemão",
+        "endereco": "Av. São Jorge, São Jorge",
+        "descricao": "Tradicional balada de rock em Manaus, conhecida por shows ao vivo e ambiente descontraído."
+      }
     ],
     "portos": [
-        {
-            "nome": "Porto Público de Manaus - Roadway",
-            "endereco": "Av. Floriano Peixoto, 2-30 - Centro, Manaus - AM, 69005-070",
-            "descricao": "O Porto de Manaus é um dos principais portos fluviais do Brasil, localizado na zona central da cidade. Ele desempenha um papel crucial no transporte de mercadorias para a região Norte e outros destinos ao longo dos rios da Amazônia."
-        },
-        {
-            "nome": "Porto das Balsas de Manaus",
-            "endereco": "Avenida Manaus Moderna 355-465 - Centro, Manaus - AM",
-            "descricao": "O Porto das balsas de Manaus é um ponto estratégico para embarques e desembarques de mercadorias. Ele é especialmente importante durante a temporada de cheia dos rios, quando as águas aumentam o nível dos portos tradicionais."
-        }
+      {
+        "nome": "Porto Público de Manaus - Roadway",
+        "endereco": "Av. Floriano Peixoto, 2-30 - Centro, Manaus - AM, 69005-070",
+        "descricao": "O Porto de Manaus é um dos principais portos fluviais do Brasil, localizado na zona central da cidade. Ele desempenha um papel crucial no transporte de mercadorias para a região Norte e outros destinos ao longo dos rios da Amazônia."
+      },
+      {
+        "nome": "Porto das Balsas de Manaus",
+        "endereco": "Avenida Manaus Moderna 355-465 - Centro, Manaus - AM",
+        "descricao": "O Porto das balsas de Manaus é um ponto estratégico para embarques e desembarques de mercadorias. Ele é especialmente importante durante a temporada de cheia dos rios, quando as águas aumentam o nível dos portos tradicionais."
+      },
+      {
+        "nome": "Porto da Ceasa",
+        "endereco": "Rodovia BR-319, Distrito Industrial",
+        "descricao": "Porto utilizado principalmente para o transporte de produtos agrícolas e hortifrutigranjeiros da região."
+      },
+      {
+        "nome": "Porto Chibatão",
+        "endereco": "Av. Ministro Mário Andreazza, Distrito Industrial",
+        "descricao": "Maior terminal privado da Amazônia, movimenta contêineres e cargas diversas com infraestrutura moderna."
+      }
     ]
-  
-}
+  }
