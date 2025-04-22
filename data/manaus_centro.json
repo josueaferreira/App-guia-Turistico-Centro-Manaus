@@ -29,6 +29,11 @@
         "nome": "Café com Leite",
         "endereco": "Av. Joaquim Nabuco, Centro",
         "descricao": "Ambiente familiar, com opções de café da manhã regional."
+      },
+      {
+        "nome": "Cine café",
+        "endereco": "Av. Barroso, 279, Centro",
+        "descricao": "A cafeteria do Centro Cultural Casarão de Ideias, conhecida como Cine Café, é um espaço acolhedor e criativo no Centro de Manaus, ideal para quem aprecia café, arte e literatura." 
       }
     ],
     "restaurantes": [
@@ -149,6 +154,11 @@
     ],
     "bares": [
       {
+        "nome": "Basquiat GastroPub",
+        "endereco": "Rua Silva Ramos, 170, Centro",
+        "descricao": "O Basquiat GastroPub Galeria é um bar alternativo localizado no Centro de Manaus, conhecido por sua atmosfera artística e acolhedora. Inspirado no artista Jean-Michel Basquiat, o local combina elementos de galeria, bistrô e pub, oferecendo uma experiência cultural e gastronômica única." 
+      },
+      {
         "nome": "Bar do Armando",
         "endereco": "Rua 10 de Julho, 593, Centro",
         "descricao": "Fundado em 1963, é um ícone cultural de Manaus, conhecido por sua cerveja gelada, petiscos tradicionais como isca de pirarucu e ambiente descontraído com música ao vivo."
@@ -185,6 +195,11 @@
       }
     ],
     "noturna": [
+      {
+        "nome": "Las vegas Club Show",
+        "endereco": "Avenida Sete de Setembro, 1710 – Centro, Manaus - AM, 69020-125",
+        "descricao": "O Curupira Mãe do Mato é um espaço cultural vibrante localizado no coração de Manaus. Mais do que um bar, é um ponto de encontro para quem busca arte, música, gastronomia regional e uma atmosfera acolhedora e alternativa."
+      },
       {
         "nome": "Las vegas Club Show",
         "endereco": "R. Tamandaré, 125 - Centro, Manaus - AM, 69005-410",
