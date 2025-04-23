@@ -39,6 +39,11 @@
         "nome": "Cine café",
         "endereco": "Av. Barroso, 279, Centro",
         "descricao": "A cafeteria do Centro Cultural Casarão de Ideias, conhecida como Cine Café, é um espaço acolhedor e criativo no Centro de Manaus, ideal para quem aprecia café, arte e literatura." 
+      },
+      {
+        "nome": "Café da Ribeira",
+        "endereco": "Avenida Manaus Moderna, Centro",
+        "descricao": "O Café da Ribeira é um espaço encantador localizado no centro de Manaus, com uma vista privilegiada para o rio Negro. Ele oferece um buffet diversificado que celebra a culinária amazônica, incluindo bolos, tapiocas, sanduíches e bebidas variadas." 
       }
     ],
     "restaurantes": [
@@ -76,6 +81,16 @@
         "nome": "Cacique Peixaria",
         "endereco": "Av. Solimões, 1300 - Distrito Industrial I",
         "descricao": "Restaurante especializado em peixes amazônicos com ambiente rústico e pratos tradicionais como tambaqui, pirarucu e matrinxã."
+      },
+      {
+        "nome": "Restaurante Fiorentina",
+        "endereco": "R. José Paranaguá, 44 - Centro",
+        "descricao": "Restaurante Tradicional de Manaus, há 40 anos servindo opções á lá carte e buffet self-service. Oferece ambiente agradável, climatizado e perfeito para seu passeio no centro da cidade."
+      },
+      {
+        "nome": "Restaurante Calçada Alta",
+        "endereco": "R. Costa Azevedo, 96 - Centro",
+        "descricao": "Empresa especializada em restaurante, self-service e churrascaria."
       }
     ],
     "pontos_turisticos": [
@@ -133,6 +148,11 @@
         "nome": "Porto de Manaus",
         "endereco": "Av. Marques de Santa Cruz, Centro",
         "descricao": "Importante ponto turístico e histórico da cidade, com bela vista do Rio Negro."
+      },
+      {
+        "nome": "Parque Senador Jefferson Péres",
+        "endereco": "Av. Lourenço da Silva Braga, 1507 - Centro",
+        "descricao": "O Parque Senador Jefferson Péres é um parque urbano localizado no Centro Histórico de Manaus, capital do estado do Amazonas."
       }
     ],
     "hoteis": [
@@ -207,6 +227,16 @@
         "nome": "Bar Poraquê",
         "endereco": "Rua Rio Jutaí, Vieiralves",
         "descricao": "Bar temático com drinks inspirados na Amazônia e música alternativa ao vivo."
+      },
+      {
+        "nome": "Boteco do Edu",
+        "endereco": "Rua Lobo D'Almada, 329 - Centro",
+        "descricao": "Variedade de petiscos, porções, cervejas e drinques, ambiente simples e noites animadas com samba de raiz no centro de Manaus."
+      },
+      {
+        "nome": "Papo de Skina",
+        "endereco": "736 Centro, AM, R. Silva Ramos - Centro",
+        "descricao": "Bar popular intimista serve opções apuradas e tradicionais da boemia com mesas ao ar livre e música ao vivo."
       }
     ],
     "noturna": [
