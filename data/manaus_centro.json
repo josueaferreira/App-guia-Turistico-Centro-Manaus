@@ -6,6 +6,11 @@
         "descricao": "Café tradicional com opções de comidas regionais."
       },
       {
+        "nome": "Angatu Café",
+        "endereco": "R. Monsenhor Coutinho, 402 - Centro",
+        "descricao": "Cafeteria charmosa com decoração acolhedora, oferecendo cafés especiais, e sanduíches regionais"
+      },
+      {
         "nome": "Empório Amazônico",
         "endereco": "Av. Eduardo Ribeiro, Centro",
         "descricao": "Café com ambiente agradável e produtos amazônicos."
@@ -66,6 +71,11 @@
         "nome": "Naia Restaurante",
         "endereco": "Av. Sete de Setembro, Centro",
         "descricao": "Combina culinária regional com toques modernos e vista para o Rio Negro."
+      },
+      {
+        "nome": "Cacique Peixaria",
+        "endereco": "Av. Solimões, 1300 - Distrito Industrial I",
+        "descricao": "Restaurante especializado em peixes amazônicos com ambiente rústico e pratos tradicionais como tambaqui, pirarucu e matrinxã."
       }
     ],
     "pontos_turisticos": [
@@ -73,6 +83,11 @@
         "nome": "Teatro Amazonas",
         "endereco": "Largo de São Sebastião, Centro",
         "descricao": "Símbolo da época áurea da borracha, construído em 1896."
+      },
+      {
+        "nome": "Praia da Ponta Negra",
+        "endereco": "Av. Coronel Teixeira, Ponta Negra",
+        "descricao": "Praia fluvial urbana com orla moderna, calçadão, quadras esportivas e uma bela vista para o Rio Negro, ideal para lazer e pôr do sol."
       },
       {
         "nome": "Mercado Municipal Adolpho Lisboa",
