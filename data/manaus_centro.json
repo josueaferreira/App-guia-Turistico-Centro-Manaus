@@ -31,6 +31,11 @@
         "nome": "Tacacá da Gisela",
         "endereco": "Rua José Clemente, Sem numero - Centro",
         "descricao": "Serve o famoso tacacá, prato típico amazônico, em ambiente informal."
+      },
+      {
+        "nome": "Picanha Mania",
+        "endereco": "Av. Ramos Ferreira, 1684 - Centro",
+        "descricao": "Tradicional churrascaria de Manaus com mais de 19 anos no mercado. Especializada em cortes nobres de carne, com destaque para sua picanha premium. Oferece buffet completo de acompanhamentos e ambiente familiar acolhedor."
       }
     ],
     "pontos_turisticos": [
@@ -87,6 +92,11 @@
         "nome": "Bar Caldeira",
         "endereco": "Rua 10 de Julho, 593, Centro",
         "descricao": "Conhecido por seu chopp gelado e música ao vivo, é um ponto de encontro para manauaras e turistas, representando a cultura manauara."
+      },
+      {
+        "nome": "Oliver'Pub",
+        "endereco": "R. Simão Bolívar, 231 - Centro",
+        "descricao": "Bar popular no centro da cidade, local amplo, com foco no atendimento de qualidade e cervejas de baixo preço."
       }
     ],
     "noturna": [
