@@ -58,7 +58,12 @@
         "nome": "Museu da Cidade de Manaus - MUMA (Paço da Liberdade)",
         "endereco": "R. Gabriel Salgado, Centro",
         "descricao": "Museu em um palácio neoclássico com exposições interativas sobre a cultura e a história de Manaus."
-      }
+      },
+      {
+        "nome": "Palacete Provincial",
+        "endereco": "Praça Heliodoro Balbi, Centro",
+        "descricao": "Antiga sede da polícia, o palacete abriga hoje cinco museus, incluindo o Museu de Numismática, de Imagem e Som e de Arqueologia, com rica programação cultural."
+      }      
     ],
     "hoteis": [
       {
@@ -75,7 +80,12 @@
         "nome": "Hotel São Paulo",
         "endereco": "Rua São Paulo, Centro",
         "descricao": "Hotel simples e acolhedor, ideal para quem busca praticidade."
-      }
+      },
+      {
+        "nome": "Hotel Villa Amazônia",
+        "endereco": "Rua 10 de Julho, 315 - Centro",
+        "descricao": "Hotel boutique localizado em um casarão restaurado da era da borracha, com decoração sofisticada, piscina de pedra natural e restaurante de alta gastronomia."
+      }      
     ],
     "bares": [
       {
