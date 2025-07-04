@@ -133,3 +133,26 @@ header p {
         font-size: 40px;
     }
 }
+
+#stop-btn {
+    padding: 10px 20px;
+    background-color: #ea4335;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#stop-btn:hover {
+    background-color: #c62828;
+}
+
+#stop-btn i {
+    font-size: 18px;
+}

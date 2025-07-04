@@ -137,5 +137,12 @@
         "endereco": "Avenida Manaus Moderna 355-465 - Centro",
         "descricao": "O Porto das balsas de Manaus é um ponto estratégico para embarques e desembarques de mercadorias. Ele é especialmente importante durante a temporada de cheia dos rios, quando as águas aumentam o nível dos portos tradicionais."
       }
+    ],
+      "história": [
+      {
+        "nome": "História do centro de manaus",
+        "endereco": "",
+        "descricao": "O centro histórico de Manaus, tombado pelo Iphan em 2012, preserva construções do auge da borracha junto a edifícios modernos, refletindo uma fase econômica única no Brasil. Esse núcleo urbano, com arquitetura eclética e monumentos, mantém o patrimônio da cidade e a insere entre as cidades históricas brasileiras. O porto da cidade destaca a arquitetura do início do século XX, com estruturas de ferro e soluções inovadoras. Nos anos 1900, Manaus tinha 20 mil habitantes e apresentava ruas organizadas, calçadas importadas, praças, monumentos e o Teatro Amazonas, símbolos do seu desenvolvimento e modernidade."
+      }
     ]
   }

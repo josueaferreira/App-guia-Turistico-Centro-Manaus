@@ -48,9 +48,14 @@ def responder(pergunta):
 
 
 def listar_opcoes(lista, tipo):
-    resposta = f"Aqui estão algumas opções de {tipo} no centro histórico de manaus:\n"
+    if tipo.lower() == 'história' or tipo.lower() == 'historia':
+        resposta = "Aqui está a história de Manaus.\n"
+    else:
+        resposta = f"Aqui estão algumas opções de {tipo} no centro histórico de manaus:\n"
+    
     for lugar in lista:
         resposta += f"- {lugar['nome']} (Endereço: {lugar['endereco']}): {lugar['descricao']}\n"
+    
     return resposta.strip()
 
 
